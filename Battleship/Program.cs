@@ -8,6 +8,8 @@ namespace Battleship
 {
     class Program
     {
+        public int nummer = 1;
+
         static void Main(string[] args)
         {
         }
